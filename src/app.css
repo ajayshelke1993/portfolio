@@ -105,7 +105,7 @@
 }
 
 .content-wrapper {
-	max-width: 1000px;
+	max-width: 1100px;
 	margin: 0 auto;
 	/* background-color: #80a2d6; */
 
@@ -148,8 +148,8 @@
 
 	.content-wrapper {
 		max-width: 90%;
-		padding-left: 10%;
-		padding-right: 10%;
+		padding-left: 0%;
+		padding-right: 0%;
 	}
 }
 
