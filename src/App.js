@@ -27,7 +27,7 @@ function App() {
 		<div className="App">
 			
 			
-			<Routes basename="/portfolio">
+			<Routes >
 				<Route path="/" element={<Homepage />} />
 				
 				<Route path="/about" element={<About />} />
