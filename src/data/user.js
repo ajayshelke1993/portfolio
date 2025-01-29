@@ -1,9 +1,9 @@
 const INFO = {
 	main: {
-		title: "Reactfolio",
+		title: "Ajay's Portfolio",
 		name: "Ajay Shelke",
 		email: "ajayshelke93@gmail.com",
-		logo: "../logo.jpeg",
+		logo: "../logo.png",
 	},
 
 	socials: {

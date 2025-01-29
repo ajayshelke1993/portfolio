@@ -90,6 +90,9 @@ const Homepage = () => {
 		width: isLogoZoomed ? "36%" : "auto",
 		height: isLogoZoomed ? "36%" : "auto",
 		cursor: "pointer",
+		paddingTop: "20px",
+		
+
 	  };
 	
 	  const closeButtonStyle = {
